@@ -1,4 +1,4 @@
-To search for a movie type in a title or keyword into the searchbar and then press the enter key. 
+## To search for a movie type in a title or keyword into the searchbar and then press the enter key. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Available Scripts
